@@ -2,11 +2,11 @@
 
 <!-- 🌠 Custom Banner with Name -->
 <p align="center">
-  <img src="https://readme-landing-page.vercel.app/api/hero?text=Soham%20Vyas%20%F0%9F%92%BB%20%7C%20Data%20Science%20%26%20Tech%20Wizard&bg=linear-gradient(to%20right,%20%23006eff,%20%23bff6f7)" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-611a-4704-9a38-7ed378847579.gif" alt="coding-gif" width="800" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Soham+Vyas+%F0%9F%91%8B;A+Tech+Explorer+%F0%9F%9A%80;Data+Science+%7C+AI+%7C+Web+Dev+Lover;Let's+Build+the+Future+Together!+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Soham+Vyas+%F0%9F%91%8B;A+Tech+Explorer+%F0%9F%9A%80;Data+Science+%7C+AI+%7C+Web+Dev+Lover;Let's+Build+the+Future+Together!+%F0%9F%92%AA" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%A7%A0+My+Skills+%26+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%A7%A0+My+Skills+%26+Tools" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=blacklist-bot&theme=radical" />
 </a>
 
-<a href="https://github.com/vyassoham/portfolio" target="_blank">
+<a href="https://vyassoham.github.io/portfolio/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=portfolio&theme=radical" />
 </a>
 
@@ -65,8 +65,11 @@
 ### 🧾 My Live Résumé
 
 <p align="center">
-  <a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Résumé-Click%20Here-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1YOUR_RESUME_ID/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Résumé-Click%20Here-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -88,9 +91,9 @@
 ### 📽️ My Life in Gifs
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/ZeFGbQ4uUVQqT2Z5Si/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/KazaotvZ5LvVm/giphy.gif" width="150">
 </p>
 
 ---
@@ -98,48 +101,47 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/legitsoham" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-legitsoham-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/legitsoham/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/vyassoham" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vyassoham-black?style=for-the-badge&logo=github" />
+  <a href="https://twitter.com/vyassoham" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎧 Background Music (click to play!)
+### 🎧 Currently Coding To
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=JGwWNGJdvx8" target="_blank">
-    <img src="https://img.shields.io/badge/Now+Playing-Shape+of+You+-+Ed+Sheeran-blueviolet?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify)](https://open.spotify.com/user/31yourspotifyid)
 
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/vyassoham/vyassoham/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
 ### 💻 Currently Learning
 
-- 🐍 Python (Intermediate ➡ Advanced)  
-- 📊 Streamlit  
-- 🤖 LLMs & LangChain  
-- 🗃️ Databases  
-- 💻 System Projects (like ATM Simulations)  
-- 🇯🇵 Japanese Hiragana (あ〜そ ✅)
+- 🐍 Python Advanced Concepts
+- 🤖 LangChain Framework 
+- 🗃️ PostgreSQL & MongoDB
+- ☁️ Cloud Computing Basics
+- 🇯🇵 Japanese Progress: <br>
+  <img src="https://progress-bar.dev/65/?title=Hiragana" alt="hiragana-progress">
 
 ---
 
 ### 💬 Quote of the Day
 
-> “Stay hungry. Stay foolish.” – *Steve Jobs*
+> “First, solve the problem. Then, write the code.” – *John Johnson*
 
 ---
 
