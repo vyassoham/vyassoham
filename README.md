@@ -41,37 +41,6 @@
 </p>
 
 ---
-
-### 📦 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vyassoham/atm-simulation" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=atm-simulation&theme=radical" />
-</a>
-
-<a href="https://github.com/vyassoham/blacklist-bot" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=blacklist-bot&theme=radical" />
-</a>
-
-<a href="https://github.com/vyassoham/portfolio" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=portfolio&theme=radical" />
-</a>
-
-</div>
-
----
-
-### 🧾 My Live Résumé
-
-<p align="center">
-  <a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Résumé-Click%20Here-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
@@ -107,17 +76,6 @@
 </p>
 
 ---
-
-### 🎧 Background Music (click to play!)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=JGwWNGJdvx8" target="_blank">
-    <img src="https://img.shields.io/badge/Now+Playing-Shape+of+You+-+Ed+Sheeran-blueviolet?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
