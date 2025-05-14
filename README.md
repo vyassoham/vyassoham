@@ -8,11 +8,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Soham+Vyas+%F0%9F%91%8B;A+Tech+Explorer+%F0%9F%9A%80;Data+Science+%7C+AI+%7C+Web+Dev+Lover;Let's+Build+the+Future+Together!+%F0%9F%92%AA" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Welcome Gif">
-</p>
-
 ---
 
 ### 👤 About Me
