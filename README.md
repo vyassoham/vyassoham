@@ -2,7 +2,7 @@
 
 <!-- 🌠 Custom Banner with Name -->
 <p align="center">
-  <g src="https://reaimdme-landing-page.vercel.app/api/hero?text=Soham%20Vyas%20%F0%9F%92%BB%20%7C%20Data%20Science%20%26%20Tech%20Wizard&bg=linear-gradient(to%20right,%20%23006eff,%20%23bff6f7)" />
+  <g src="https://reaimdme-landing-page.vercel.app/api/hero?text=Soham%20Vyas%20%F0%9F%92%BB%20%7C%20Data%20Science%20%26%20Tech%20Wizard%20-%20Let%27s%20Build%20Cool%20Stuff&bg=linear-gradient(to%20right,%20%23006eff,%20%23bff6f7)" />
 </p>
 
 <h1 align="center">
