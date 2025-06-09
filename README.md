@@ -1,9 +1,19 @@
 <!-- Profile README for Soham Vyas (@vyassoham) -->
 
 <!-- 🌠 Custom Banner with Name -->
-<p align="center">
-  <g src="https://reaimdme-landing-page.vercel.app/api/hero?text=Soham%20Vyas%20%F0%9F%92%BB%20%7C%20Data%20Science%20%26%20Tech%20Wizard%20-%20Let%27s%20Build%20Cool%20Stuff&bg=linear-gradient(to%20right,%20%23006eff,%20%23bff6f7)" />
-</p>
+<h1 align="center" style="
+  font-size: 2.5rem;
+  font-weight: bold;
+  background: linear-gradient(to right, #00f0ff, #005eff, #00f0ff);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 5px #00f0ff, 0 0 10px #005eff, 0 0 20px #00f0ff;
+  font-family: 'Segoe UI', sans-serif;
+">
+  ⚡ Soham Vyas | Data Science ⚡<br>
+  Let's Build Cool Stuff Together
+</h1>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Soham+Vyas+%F0%9F%91%8B;A+Tech+Explorer+%F0%9F%9A%80;Data+Science+%7C+AI+%7C+Web+Dev+Lover;Let's+Build+the+Future+Together!+%F0%9F%92%AA" alt="Typing SVG" />
