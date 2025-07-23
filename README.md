@@ -22,7 +22,7 @@
 **Username:** `vyassoham`  
 **Location:** India 🌍  
 **Education:** BS in Data Science (IIT Jodhpur )
-**Languages:** English, Hindi, Gujarati, 日本語 (learning)  
+**Languages:** English, Hindi
 
 **Interests:**
 - 🚀 Full-stack Web Dev  
