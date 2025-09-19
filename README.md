@@ -68,8 +68,8 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/legitsoham" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-legitsoham-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/wyrdsoham" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-wyrdsoham-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/vyassoham" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-vyassoham-black?style=for-the-badge&logo=github" />
@@ -92,7 +92,6 @@
 - 🤖 LLMs & LangChain  
 - 🗃️ Databases  
 - 💻 System Projects (like ATM Simulations)  
-- 🇯🇵 Japanese Hiragana (あ〜そ ✅)
 
 ---
 
