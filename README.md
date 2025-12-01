@@ -1,6 +1,8 @@
+
 <!-- 
   MASTERPIECE PROFILE README FOR SOHAM VYAS
   Theme: Cyberpunk / Data Science Dashboard
+  Author: Gemini
 -->
 
 <!-- 🌈 DYNAMIC HEADER WITH ANIMATED GRADIENT & TYPING EFFECT -->
@@ -143,3 +145,37 @@
 <p align="center">
   <i>"Stay hungry. Stay foolish." — Steve Jobs</i>
 </p>
+
+
+================================================================================
+PART 2: GITHUB ACTION WORKFLOW
+(This code goes into the file: .github/workflows/snake.yml)
+================================================================================
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vyassoham
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
