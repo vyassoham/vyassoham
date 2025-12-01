@@ -27,9 +27,10 @@
 # 🚀 LIVE GITHUB METRICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vyassoham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vyassoham&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vyassoham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vyassoham&theme=tokyonight" height="180" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyassoham&bg_color=000000&color=00eaff&line=3366ff&point=ffffff&hide_border=true&area=true" />
@@ -37,18 +38,9 @@
 
 ---
 
-# 🔥 REAL-TIME CODING HEATMAP
-
-<p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vyassoham&skills=Python,C,Cpp,JavaScript,React" />
-</p>
-
----
-
 # 🌈 3D CONTRIBUTION GRAPH
-
 <p align="center">
-  <img width="700" src="https://raw.githubusercontent.com/vriza/vriza/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyassoham&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -66,7 +58,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/vyassoham?label=Followers&style=for-the-badge&color=00eaff" />
   <img src="https://img.shields.io/github/stars/vyassoham?style=for-the-badge&color=ffb300" />
-  <img src="https://img.shields.io/github/commit-activity/y/vyassoham?style=for-the-badge&color=ff0099" />
+  <img src="https://img.shields.io/badge/Total%20Commits-Auto--Count-ff0099?style=for-the-badge" />
 </p>
 
 ---
@@ -79,18 +71,10 @@
 
 ---
 
-# 🎵 NOW PLAYING — Spotify (LIVE)
+# 🎵 Last.fm 
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ukl4phb0ui4dgj0g4f6yza2p2y&cover_image=true&theme=novatorem&show_offline=false" />
-</p>
-
----
-
-# 🎧 LIVE YouTube Playing
-
-<p align="center">
-  <img width="400" src="https://yt-currently-playing.vercel.app/api?channel=YOUR_CHANNEL_ID" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=sohamvyas&width=600" />
 </p>
 
 ---
@@ -103,35 +87,10 @@
 
 ---
 
-# ⚡ AUTO-UPDATING PROJECT CARDS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=AI-Voice-BOT&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vyassoham&repo=SOHAM-PROJECT&theme=tokyonight" />
-</p>
-
----
-
-# ⏳ WAKATIME — REAL-TIME CODING STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Soham&theme=tokyonight" />
-</p>
-
----
-
 # 🧠 PROFILES & CODING PLATFORMS
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vyassoham?theme=dark&font=Noto%20Sans" />
-</p>
-
-<p align="center">
-  <img src="https://cp-logo.vercel.app/codeforces/vyassoham" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=YOUR_STACK_ID&theme=dark" />
 </p>
 
 ---
@@ -139,8 +98,9 @@
 # 🌍 VISITOR HEATMAP
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vyassoham&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=vyassoham&style=for-the-badge&color=00eaff&label=Profile+Views" />
 </p>
+
 
 ---
 
