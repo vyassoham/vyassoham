@@ -1,7 +1,7 @@
 <!-- GOD-TIER DARK MODE README FOR SOHAM VYAS -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Soham+Vyas;AI+Engineer+in+Progress;Full+Stack+Developer;LLMs+%7C+ML+%7C+Data+Science;Building+Cool+Stuff+LIVE+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Soham+Vyas;AI+Engineer;Data+Scientist;LLMs+%7C+ML+%7C+NLP;Building+Cool+Stuff+LIVE+Everyday" />
 </p>
 
 ---
@@ -10,9 +10,8 @@
 
 - BS in Data Science @ IIT Jodhpur  
 - AI • ML • Data Engineering • Full Stack  
-- Python, C, C++, JavaScript, React, FastAPI  
-- AI Bots • LLMs • Pipelines • Full-stack dashboards  
-- Goal: Become a top-tier AI engineer in 4 years  
+- Python, C, C++, JavaScript, React, R  
+- AI Bots • LLMs • Pipelines • Full-stack dashboards    
 
 ---
 
@@ -38,13 +37,6 @@
 
 ---
 
-# 🌈 3D CONTRIBUTION GRAPH
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyassoham&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 # 🏆 AUTO-UPDATING ACHIEVEMENTS
 
 <p align="center">
@@ -60,15 +52,6 @@
   <img src="https://img.shields.io/github/stars/vyassoham?style=for-the-badge&color=ffb300" />
   <img src="https://img.shields.io/badge/Total%20Commits-Auto--Count-ff0099?style=for-the-badge" />
 </p>
-
----
-
-# 🔥 LATEST 5 COMMITS (LIVE)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyassoham&custom_title=Recent+Commits&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
 # 🎵 Last.fm 
