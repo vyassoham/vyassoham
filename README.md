@@ -1,139 +1,125 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Soham+Vyas+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>BS Data Science &amp; AI @ IIT Jodhpur · Building systems that actually work</strong>
-</p>
+# Soham Vyas
 
-<p align="center">
-  <a href="https://soham.lol"><img src="https://img.shields.io/badge/Portfolio-soham.lol-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/vyassoham"><img src="https://img.shields.io/github/followers/vyassoham?label=Follow&style=flat-square&logo=github" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vyassoham&style=flat-square&color=58A6FF" />
-</p>
-
----
-
-### 🧑‍💻 About
-
-I'm an 18-year-old developer from Rajasthan, India, studying **Data Science & AI at IIT Jodhpur**. I build production-grade tools — rate limiters with atomic Lua scripts, cybersecurity risk engines, desktop medicine databases, neural TTS pipelines, and more. I care about clean architecture, real test suites, and code that doesn't just demo well but actually ships.
-
-**Currently:** Contributing to [**SymPy**](https://github.com/sympy/sympy) (matrix algebra trace operations) · Building AI/ML systems
-
----
-
-### 🔧 Tech Stack
-
-| Domain | Tools |
-|:---|:---|
-| **Languages** | Python · C · C++ · JavaScript · R · SQL |
-| **AI / ML** | Scikit-learn · PyTorch · NLP · LLMs · Isolation Forest · DSP |
-| **Backend** | FastAPI · Flask · Node.js · Redis · Lua scripting · WebSockets |
-| **Frontend** | React · Streamlit · Tailwind CSS · HTML/CSS |
-| **Data** | Pandas · SQLite · MySQL · Plotly · OCR (Tesseract) |
-| **DevOps** | Git · Linux · Docker · GitHub Actions · pytest |
-
----
-
-### 🏗️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ [Cybersecurity Risk Analyzer](https://github.com/vyassoham/Cybersecurity-Risk-Analyzer) ⭐ 22
-Evaluates cybersecurity habits, estimates risk scores, gives actionable recommendations, and cracks password strength in real-time.
-<br/><sub><b>Python · Streamlit · Security</b></sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡ [AI Rate Limiter Shield](https://github.com/vyassoham/ai-rate-limiter-shield)
-Production-grade API security with **atomic Lua sliding window**, ML anomaly detection (Isolation Forest), device fingerprinting, and live WebSocket attack dashboard.
-<br/><sub><b>FastAPI · Redis · Lua · ML</b></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔬 [SchemaGuard](https://github.com/vyassoham/SchemaGuard)
-Universal data schema & quality validation engine. Validates CSV, Excel, JSON, and PDF with automated anomaly detection. Full test suite (25 tests).
-<br/><sub><b>Python · Pandas · pytest</b></sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗣️ [Neural TTS](https://github.com/vyassoham/neural-tts)
-Modular speech synthesis system — phoneme processing, acoustic model, neural vocoder, with full customization of pitch, speed, tone, and style.
-<br/><sub><b>Python · DSP · Audio ML</b></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💊 [MediPro](https://github.com/vyassoham/MediPro)
-Smart desktop app with full medicine details — composition, dosage, side effects, interactions. Offline-first with OCR support and auto-scheduling.
-<br/><sub><b>Python · Tkinter · Tesseract · SQLite</b></sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🪙 [Crypto Tracker](https://github.com/vyassoham/soham-crypto-tracker)
-Real-time crypto dashboard with live prices, coin comparison, and interactive historical charts via CoinGecko API.
-<br/><sub><b>Python · Streamlit · Plotly</b></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📡 [SocialLogger](https://github.com/vyassoham/SocialLogger)
-AI-powered social media management SaaS — automated scheduling, multi-platform publishing (Twitter, LinkedIn, Instagram), and Gemini AI analytics.
-<br/><sub><b>Python · Gemini API · SaaS</b></sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎙️ [Voice Inventory Manager](https://github.com/vyassoham/Voice-Inventory-Manager)
-Voice-controlled inventory management system with speech recognition and natural language processing.
-<br/><sub><b>Python · Speech Recognition · NLP</b></sub>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌱 Open Source
-
-<a href="https://github.com/sympy/sympy">
-  <img align="left" width="40" src="https://raw.githubusercontent.com/sympy/sympy/master/doc/src/logo/sympy.svg" />
-</a>
-
-**SymPy** — Contributing fixes to matrix algebra trace operations (`KroneckerProduct.trace()`, `MatrixUnit.trace()`). Core contributor to SymPy.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Data+Science+%26+AI+%40+IIT+Jodhpur;Symbolic+Computing+%26+Tensor+Algebra;Building+High-Concurrency+Systems" alt="Typing SVG" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-soham.lol-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://soham.lol)
+[![SymPy Core](https://img.shields.io/badge/SymPy-Matrix_Expressions-e35b2e?style=flat-square&logo=python&logoColor=white)](https://github.com/sympy/sympy)
+[![IIT Jodhpur](https://img.shields.io/badge/Institution-IIT_Jodhpur-0052cc?style=flat-square&logo=googleclassroom&logoColor=white)](https://iitj.ac.in)
+[![Email](https://img.shields.io/badge/Email-hello@soham.lol-34d399?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@soham.lol)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vyassoham-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vyassoham)
+
+<br/>
+
+</div>
+
+```yaml
+identity:
+  engineer: "Soham Vyas"
+  affiliation: "Indian Institute of Technology Jodhpur (IITJ)"
+  department: "Data Science & Artificial Intelligence"
+  focus_areas: ["Symbolic Computing (CAS)", "Matrix Group Calculus", "Atomic Concurrency Systems"]
+open_source:
+  organization: "SymPy (sympy/sympy)"
+  submodules: ["sympy.matrices.expressions", "sympy.assumptions"]
+  track_record: "5 Merged Core PRs (Reviewed & merged by @sylee957)"
+```
+
 ---
 
-### 📈 Stats
+### 🔬 Open Source Engineering · SymPy
+
+> Specializing in **Symbolic Matrix Expressions** (`sympy.matrices.expressions`) and **Predicate Assumption Dispatchers** (`sympy.assumptions`).  
+> Core contributions reviewed and merged by lead matrices maintainer **S.Y. Lee ([@sylee957](https://github.com/sylee957))** · Commended by **Chris Smith ([@smichr](https://github.com/smichr))**.
+
+* **Matrix Predicates & Invariants:** Added strict squareness verification to `MatrixBase` hermitian and antihermitian predicate handlers, extended `is_positive` predicate support, and registered predicate dispatchers for composite matrix expressions.
+* **Symbolic Shape & Power Algebra:** Implemented algebraic return of `ZeroMatrix` for zero power of square matrices ($M^0 = I$), resolved `KroneckerProduct` power evaluation failures, and verified shape invariants.
+* **Peer Code Review:** Active code reviewer on upstream matrix expressions and assumptions PRs (`[Contributor]` badge).
+
+| Stream | Live Filter & Query | Real-Time Telemetry |
+| :--- | :--- | :---: |
+| **Merged Pull Requests** | `repo:sympy/sympy is:pr author:vyassoham is:merged` | [**View Live Merged PRs ↗**](https://github.com/sympy/sympy/pulls?q=is%3Apr+author%3Avyassoham+is%3Amerged) |
+| **Active Pull Requests** | `repo:sympy/sympy is:pr author:vyassoham is:open` | [**View Active PRs ↗**](https://github.com/sympy/sympy/pulls?q=is%3Apr+author%3Avyassoham+is%3Aopen) |
+| **Authored Issues** | `repo:sympy/sympy is:issue author:vyassoham` | [**View Authored Issues ↗**](https://github.com/sympy/sympy/issues?q=is%3Aissue+author%3Avyassoham) |
+
+---
+
+### ⚡ Featured Engineering Systems
+
+#### 🛡️ [Cybersecurity Risk Analyzer](https://github.com/vyassoham/Cybersecurity-Risk-Analyzer) [![Stars](https://img.shields.io/github/stars/vyassoham/Cybersecurity-Risk-Analyzer?style=flat-square&logo=github&color=58A6FF)](https://github.com/vyassoham/Cybersecurity-Risk-Analyzer/stargazers)
+`Python` · `Information Theory` · `NIST 800-63B` · `Streamlit`
+* **Entropy Modeling:** Computes character distribution Shannon entropy ($H(X) = -\sum p_i \log_2 p_i$) to measure true credential randomness.
+* **Crack-Time Lattice:** Models offline attack latencies across four computational tiers, from consumer single-GPU setups up to simulated Grover quantum search.
+
+#### ⚡ [AI Rate Limiter Shield](https://github.com/vyassoham/ai-rate-limiter-shield) [![Stars](https://img.shields.io/github/stars/vyassoham/ai-rate-limiter-shield?style=flat-square&logo=github&color=58A6FF)](https://github.com/vyassoham/ai-rate-limiter-shield/stargazers)
+`FastAPI` · `Redis` · `Atomic Lua` · `Isolation Forest` · `WebSockets`
+* **Concurrency Core:** High-throughput rate-limiting proxy powered by an **atomic Lua sliding-window script** in Redis, eliminating race conditions under parallel traffic bursts.
+* **ML Anomaly Detection:** An embedded **Isolation Forest** scores request inter-arrival intervals in real time to isolate non-human bot cadences.
+* **Zero Database Overhead:** Completely relational database-free; validated under synthetic traffic spikes and live WebSocket attack telemetry.
+
+#### 🔬 [SchemaGuard](https://github.com/vyassoham/SchemaGuard) [![Stars](https://img.shields.io/github/stars/vyassoham/SchemaGuard?style=flat-square&logo=github&color=58A6FF)](https://github.com/vyassoham/SchemaGuard/stargazers)
+`Python` · `Pandas` · `pytest` · `Data Quality Engine`
+* **Data Invariant Engine:** Validates high-volume tabular records across CSV, Excel, JSON, and PDF formats against pre-defined column schemas.
+* **Drift & Null Protection:** Automatically computes null-rate thresholds, flags unexpected column drift, and enforces strict type coercion rules.
+* **Test Rigor:** 100% test coverage backed by an automated **25-test `pytest` suite**.
+
+#### 🗣️ [Neural TTS](https://github.com/vyassoham/neural-tts) [![Stars](https://img.shields.io/github/stars/vyassoham/neural-tts?style=flat-square&logo=github&color=58A6FF)](https://github.com/vyassoham/neural-tts/stargazers)
+`Python` · `DSP` · `PyTorch` · `Acoustic Modeling`
+* **Modular DSP Pipeline:** Decouples text normalization, phoneme alignment, acoustic feature synthesis, and neural vocoder inference.
+* **Prosody Control:** Exposes fine-grained programmatic control over pitch contour, speaking rate, and timbre across multilingual checkpoints.
+
+<details>
+<summary>📂 <b>View Archive Tools & Experiments</b></summary>
+<br/>
+
+* **[MediPro](https://github.com/vyassoham/MediPro)** — Medicine composition, dosage, and contraindication reference with offline OCR lookup.
+* **[SocialLogger](https://github.com/vyassoham/SocialLogger)** — Multi-platform content scheduler with automated publishing pipelines.
+* **[Crypto Tracker](https://github.com/vyassoham/soham-crypto-tracker)** — Live cryptocurrency dashboard consuming CoinGecko API with Plotly visualizers.
+
+</details>
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Core & Scientific Computing**  
+![Python](https://img.shields.io/badge/Python_3.12-3776ab?style=flat-square&logo=python&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-Matrix_CAS-e35b2e?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8caae6?style=flat-square&logo=scipy&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+**Systems, Infrastructure & Concurrency**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Lua-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+**Testing & Machine Learning**  
+![pytest](https://img.shields.io/badge/pytest-0a9edc?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+### 📈 Activity & Contribution Telemetry
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vyassoham&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vyassoham&show_icons=true&hide_border=true" height="165" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=vyassoham&theme=github-dark-blue&hide_border=true&background=00000000" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vyassoham&hide_border=true" height="165" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyassoham&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Soham's Contribution Graph" />
 </p>
 
 ---
 
-<p align="center">
-  <sub>I build things that work, then I test them, then I ship them.</sub>
-</p>
+### 🎯 Goals & Collaboration
+
+I am actively exploring:
+* **GSoC 2027 Mentorship** in SymPy (`sympy.matrices.expressions` & `sympy.assumptions`)
+* **Summer 2027 Research & Systems Internships** (Symbolic Computation, Mathematical AI, High-Performance Systems)
+* Research discussions on computer algebra systems and formal mathematical verification
+
+Direct Contact: **[hello@soham.lol](mailto:hello@soham.lol)** · **[LinkedIn](https://linkedin.com/in/vyassoham)** · **[Portfolio ↗](https://soham.lol)**
