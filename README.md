@@ -112,7 +112,7 @@ Voice-controlled inventory management system with speech recognition and natural
   <img align="left" width="40" src="https://raw.githubusercontent.com/sympy/sympy/master/doc/src/logo/sympy.svg" />
 </a>
 
-**SymPy** — Contributing fixes to matrix algebra trace operations (`KroneckerProduct.trace()`, `MatrixUnit.trace()`). Working toward GSoC 2027.
+**SymPy** — Contributing fixes to matrix algebra trace operations (`KroneckerProduct.trace()`, `MatrixUnit.trace()`). Core contributor to SymPy.
 
 <br/>
 
