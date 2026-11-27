@@ -46,7 +46,7 @@ open_source:
 | [**#31303**](https://github.com/sympy/sympy/pull/31303) | `matrices.expressions: fix scalar Kronecker product power expansion` | Eliminated symbolic branch divergence on scalar Kronecker tensor bases. |
 | [**#31284**](https://github.com/sympy/sympy/pull/31284) | `matrices.expressions: resolve zero matrix simplification in Kronecker product` | Cleaned up recursive zero-matrix annihilation across tensor products. |
 | [**#31207**](https://github.com/sympy/sympy/pull/31207) | `matrices.expressions: add is_zero_matrix and clean up assumptions` | Resolved semantic `is_zero_matrix` predicate vs type identity `is_ZeroMatrix` distinction. |
-| [**#31011**](https://github.com/sympy/sympy/pull/31011) | `matrices.expressions: evaluate Trace of KroneckerProduct` | Replaced $O(n^3)$ Kronecker trace expansion with $O(1)$ scalar product $\operatorname{Tr}(A \otimes B) = \operatorname{Tr}(A)\operatorname{Tr}(B)$. |
+| [**#31011**](https://github.com/sympy/sympy/pull/31011) | `matrices.expressions: evaluate Trace of KroneckerProduct` | Replaced $O(n^3)$ Kronecker trace expansion with $O(1)$ scalar product $\mathrm{Tr}(A \otimes B) = \mathrm{Tr}(A)\mathrm{Tr}(B)$. |
 | [**#31010**](https://github.com/sympy/sympy/pull/31010) | `matrices.expressions: evaluate Trace of MatrixUnit` | Optimized elementary coordinate matrix trace evaluation. |
 
 #### 🚀 Active Pull Requests & Pre-Staged Work
